@@ -1,2 +1,2 @@
-# Data science project
-Author: Florencia D'Andrea
+### Practising merge conflicts!
+This is a local change :)
